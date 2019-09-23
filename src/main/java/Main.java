@@ -13,6 +13,7 @@ public class Main {
 
     public static void main(String[] args) {
         readFromTextFile();
+        logListJSON.clear();
     }
 
     private static void readFromTextFile(){
